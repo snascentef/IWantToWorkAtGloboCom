@@ -1,9 +1,52 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+"Área de Entretenimento, Área de Plataformas Sociais"
+Desenvolvimento de software, qualquer área, eu não tenho muita experiência em nenhuma das áreas específicas das vagas listadas, 
+mas aprendo rápido e tenho bastante experiência com desenvolvimento.
+Nos últimos anos trabalho em projetos para o Terra Networks, utilizando o Scrum como metodologia de desenvolvimento.
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+- Dados pessoais:
+	Sexo: MASCULINO
+	Data de nascimento: 14/08/1989
+	Estado civil: SOLTEIRO
+	Endereço: Porto Alegre/ RS
+	E-mail: snascentef@gmail.com
+	
+- Formação:
+	Superior Completo – Análise e Desenvolvimento de Sistemas(Faculdade Porto Alegre) – 2012/1.
+	
+- Experiências Profissionais:
+	- Desenvolvedor de Software – Canopus Informática – 07/2011
+		.Desenvolvimento de portal mobile de grande porte(Terra Networks Mobile); Desenvolvimento de portal de grande porte (Terra Networks) em linguagem TCL.		
+	- Desenvolvedor PHP e Java – Dinamize – 07/2009 a 5/2010
+		.Desenvolvimento e manutenção de aplicações WEB, utilizando banco e dados PostgreSQL, MySQL e Amazon SimpleDB.		
+	- Estágio Desenvolvedor PHP – H3 Web Software House – 12/2008 a 06/2009
+		.Análise e Desenvolvimento de sistemas web utilizando linguagem PHP com banco de dados MYSQL.		
+	- Estágio TotalBanco – 08/2008 a 12/2008
+		.Analista de sistemas, desenvolvimento de manuais dos projetos, desenvolvimento de diagramas de classes, fluxos, requisitos, atividades, homologação do projeto, trabalho em equipe, boa participação em projetos.
+	- Estágio UERGS – POA – 02/2008 a 08/2008
+		.Desenvolvimento de sistemas WEB em JSP e PHP, modelagem de banco de dados SQL Server, documentação dos softwares e desenvolvimento de UMLs.
+
+- Experiência no Exterior:
+	Instituição: Malvern House London (Londres – Inglaterra)
+	Curso Realizado: English Level Elementary
+	Duração: 1 mês – 30/01/2012 a 26/02/2012
+	
+- Conhecimentos:
+	- Banco de Dados: MySql, PostgreSQL, Oracle, SQL Server
+	- Programação: Lua, C, C#, C++, Python, CSS, PHP, HTML, JavaScript, Java
+	- Frameworks: Zend Framework, Yii Framework, Corona SDK
+	- Análise de Sistemas: Especificação de Software, Modelos de Dados, UML
+	- Sistemas Operacionais: Windows, Linux
+	- Escritório: Pacote Office
+	- Outros: Amazon SimpleDB
+
+- Idiomas:
+	- Português – Nativo
+	- Inglês – Intermediário
+	- Espanhol – Básico
+	
